@@ -1,4 +1,4 @@
-I will update these everytime there is a new issue.  Find your Representative or Senator: https://www.govtrack.us/congress/members/map.  Goto their official website and select contact.  
+Find your Representative or Senator: https://www.govtrack.us/congress/members/map.  Goto their official website and select contact.  
 
 ### Emil Bove  
 2025-02-17  
