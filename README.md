@@ -1,5 +1,23 @@
 Find your Representative or Senator: https://www.govtrack.us/congress/members/map.  Goto their official website and select contact.  
 
+### 60 Minutes  
+2025-02-18  
+- Sources:  
+    - https://www.theatlantic.com/ideas/archive/2025/02/doge-civil-servant-purge/681671  
+    - https://www.poynter.org/commentary/2025/elon-musk-60-minutes-long-prison-sentence  
+    - https://www.the-independent.com/news/world/americas/elon-musk-media-matters-antisemitism-trump-stephen-miller-b2450368.html  
+```
+Representative or Senator LastName,  
+
+I am writing to express my deep concern over recent statements made by Elon Musk, who has suggested that journalists, including those from *60 Minutes*, should be jailed for their reporting. Given Musk’s significant influence, including his business dealings with the government and control over major communication platforms, these remarks are deeply troubling and pose a serious threat to press freedom.  
+
+The First Amendment protects the right of individuals and the press to express opinions and report on matters of public interest without fear of government retaliation. When someone in Musk’s position—who oversees platforms that shape public discourse and engages in government contracts—advocates for imprisoning journalists, it sets a dangerous precedent.  
+
+Government officials and policymakers must strongly reject any rhetoric that undermines press freedom or seeks to punish journalists for their reporting. I urge you to speak out against these threats and support legislation that protects journalists from intimidation and retaliation.  
+
+I appreciate your time and attention to this critical issue.  
+```  
+
 ### Who is in charge of DOGE/USDS  
 2025-02-18  
 - Sources:  
