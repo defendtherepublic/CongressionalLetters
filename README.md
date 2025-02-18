@@ -289,7 +289,7 @@ I am asking for your leadership in ensuring that taxpayer dollars are spent resp
 
 ### CFPB  
 2025-02-09  
-- Source:  
+- Sources:  
     - https://www.consumerfinance.gov/enforcement/enforcement-by-the-numbers  
 ```
 Representative or Senator LastName,
@@ -305,7 +305,7 @@ Thank you for your attention to this critical matter. I look forward to hearing 
 
 ### Treasury  
 2025-02-09  
-- Source:  
+- Sources:  
     - https://www.wsj.com/politics/policy/vance-musk-criticize-federal-judge-for-blocking-doge-from-treasury-system-3829f375  
     - https://www.moneycontrol.com/news/business/markets/harshad-mehta-scam-10-key-points-of-the-scam-that-jolted-india-in-1992-5939931.html  
     - https://www.tribuneindia.com/news/anniversary/harshad-mehta-the-big-bull-of-dalal-street/  
@@ -325,7 +325,7 @@ Additionally, recent statements by President Trump suggest that the U.S. may hav
 
 ### USAID  
 2025-02-09  
-- Source:  
+- Sources:  
     - https://www.reuters.com/world/us/trump-looking-revamp-usaid-with-musk-help-senior-white-house-official-says-2025-02-03/  
     - https://www.forbes.com/sites/thomasbrewster/2025/02/03/usaid-and-musk-were-partners-via-spacex-starlink/  
     - https://electrek.co/2022/11/07/tesla-backed-startup-zola-microgrid-powering-african-villages/  
