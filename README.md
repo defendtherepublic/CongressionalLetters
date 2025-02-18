@@ -1,6 +1,25 @@
 Find your Representative: https://www.govtrack.us/congress/members/map.  
 Write your own letters: https://chatgpt.com/g/g-6732a6a9da108190824b063d563b427b-congressional-letters.  
 
+### Romania  
+2025-02-18  
+- Sources:  
+    - https://www.ft.com/content/3f951e0b-a9cb-489a-be89-fdf9f996ed27  
+    - https://www.thetimes.co.uk/article/trump-andrew-tate-romania-restrictions-nznwm9628  
+```
+Representative or Senator LastName,  
+
+I am writing to express my deep concern over recent reports that members of the administration have asked the Romanian government to lift travel restrictions on Andrew and Tristan Tate, who are currently facing human trafficking and other serious charges in Romania.  
+
+As a nation that upholds the rule of law and advocates for justice for victims of trafficking, it is deeply troubling that we would seek to intervene in an ongoing legal process in a foreign country. The United States has long supported international efforts to combat human trafficking, and any action that could undermine these efforts sends the wrong message to both our allies and victims of these crimes.  
+
+The Romanian authorities must be allowed to conduct their legal proceedings without political pressure or interference. We should stand firmly on the side of justice and ensure that our government does not prioritize the interests of individuals over the pursuit of accountability for such serious allegations.  
+
+I urge you to seek clarification from the administration regarding this matter and to take a stand against any actions that could be perceived as undermining legal processes abroad. The United States must remain consistent in its commitment to fighting human trafficking and supporting the rule of law.  
+
+Thank you for your time and attention to this important issue.  
+```  
+
 ### 60 Minutes  
 2025-02-18  
 - Sources:  
