@@ -1,4 +1,5 @@
-Find your Representative or Senator: https://www.govtrack.us/congress/members/map.  Goto their official website and select contact.  
+Find your Representative: https://www.govtrack.us/congress/members/map.  
+Write your own letters: https://chatgpt.com/g/g-6732a6a9da108190824b063d563b427b-congressional-letters.  
 
 ### 60 Minutes  
 2025-02-18  
