@@ -1,9 +1,24 @@
 Find your Representative or Senator: https://www.govtrack.us/congress/members/map.  Goto their official website and select contact.  
 
+### FDA/Neuralink  
+2025-02-17  
+```
+Representative or Senator LastName,
+
+I am writing to express my concern regarding recent reports about the dismissal of U.S. Food and Drug Administration (FDA) employees who were responsible for reviewing Elon Musk’s brain implant company, Neuralink. According to a Reuters article, approximately 20 staff members from the FDA’s Office of Neurological and Physical Medicine Devices were laid off, including those directly involved in evaluating Neuralink’s clinical-trial applications. These firings were reportedly part of a broader federal workforce reduction under the Department of Government Efficiency (DOGE).
+
+The removal of these experts raises serious concerns about the FDA’s ability to provide rigorous oversight for high-risk medical devices like Neuralink’s brain implants. Given the complexity and potential risks of such technology, I urge you to investigate whether these staffing decisions were influenced by external pressures or conflicts of interest. 
+
+Furthermore, it is deeply troubling that Elon Musk, who owns multiple companies subject to government regulation—including Tesla, SpaceX, and Neuralink—has associates within DOGE overseeing workforce reductions at agencies responsible for regulating his businesses. This represents a significant conflict of interest, as it creates opportunities for regulatory capture, undermining the FDA’s ability to make independent and science-based decisions. If individuals connected to Musk or DOGE are making staffing decisions within the FDA, it raises serious ethical and legal questions about the integrity of our regulatory processes.
+
+I respectfully request that you look into this matter and advocate for transparency regarding any politically motivated firings within the FDA. Protecting the independence of scientific and medical oversight is crucial for public trust and safety.
+https://www.reuters.com/world/us/fda-staff-reviewing-musks-neuralink-were-included-doge-employee-firings-sources-2025-02-17
+```
+
 ### USAID Healthcare  
 2025-02-17  
 ```
-Representative LaMalfa,
+Representative or Senator LastName,
 
 I am writing to express my deep concern regarding a recent incident involving a USAID employee and his pregnant wife, as reported by journalist Kyle Cheney. According to an affidavit, the employee's wife required emergency medical evacuation while stationed overseas. However, due to directives from Washington, D.C., the medevac was initially denied. It was only after the intervention of a U.S. senator that the decision was reversed, but unfortunately, the delay rendered the assistance too late.
 
@@ -18,7 +33,7 @@ https://storage.courtlistener.com/recap/gov.uscourts.dcd.276820/gov.uscourts.dcd
 ### Immigrants voting  
 2025-02-17  
 ```
-Representative LastName,
+Representative or Senator LastName,
 
 I am writing to express my concerns about the spread of misinformation regarding immigration and voting rights, particularly from high-profile figures like Elon Musk. Recently, Musk has made unsubstantiated claims suggesting that Democrats are using taxpayer money to retain immigrants for future votes. For example, in February 2024, he stated on X (formerly Twitter) that Democrats avoid deporting undocumented migrants because "every illegal is a highly likely vote at some point." This assertion has been thoroughly debunked, as federal law mandates U.S. citizenship for voting in national elections, and the naturalization process takes several years. 
 
@@ -33,7 +48,7 @@ This kind of misinformation is harmful to the democratic process and public trus
 ### NNSA  
 2025-02-17  
 ```
-Representative LastName,
+Representative or Senator LastName,
 
 I am writing to express my deep concern regarding the administration’s recent mismanagement of personnel at the National Nuclear Security Administration (NNSA). The abrupt firing of critical employees, followed by an apparent realization of the mistake and an attempt to rehire them, demonstrates a level of incompetence that poses a direct threat to national security.
 
@@ -52,7 +67,7 @@ This issue is not merely bureaucratic; it reflects a fundamental lapse in judgme
 ### SSA  
 2025-02-17  
 ```
-Representative LastName,
+Representative or Senator LastName,
 
 I am writing to express my concerns regarding recent claims made by Elon Musk, head of the Department of Government Efficiency (DOGE), alleging that individuals aged 150 years are fraudulently receiving Social Security benefits. These assertions have been widely debunked by experts who attribute such anomalies to legacy coding issues within the Social Security Administration's (SSA) systems, particularly those related to the COBOL programming language.
 
