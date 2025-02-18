@@ -1,5 +1,20 @@
 Find your Representative or Senator: https://www.govtrack.us/congress/members/map.  Goto their official website and select contact.  
 
+### Who is in charge of DOGE/USDS  
+2025-02-18  
+```
+Representative or Senator LastName,  
+
+I am writing to seek clarification on the leadership and authority structure of the Department of Government Efficiency (DOGE) and the U.S. Digital Service (USDS). Recent reports indicate that thousands of federal employees have been dismissed as part of DOGE's restructuring efforts, yet there seems to be conflicting information regarding who is ultimately responsible for these decisions.  
+
+Initially, President Trump appeared to appoint Elon Musk to lead DOGE, but recent court filings suggest that Musk holds only an advisory role without formal authority. If that is the case, then who is making these decisions, and under what legal framework is DOGE operating?  
+
+Given the scale of workforce reductions and the potential long-term impact on government operations, I am deeply concerned about the transparency and oversight of this department. Additionally, I would appreciate clarification on the relationship between DOGE and USDS, particularly in terms of their respective missions and authority.  
+
+I urge you to provide clarity on these matters and advocate for greater accountability in how these initiatives are implemented.  
+```  
+
+
 ### Immigration Judges  
 2025-02-17  
 - Sources:  
