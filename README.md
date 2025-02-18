@@ -1,5 +1,22 @@
 Find your Representative or Senator: https://www.govtrack.us/congress/members/map.  Goto their official website and select contact.  
 
+### SSA  
+2025-02-17  
+```
+Representative LastName,
+
+I am writing to express my concerns regarding recent claims made by Elon Musk, head of the Department of Government Efficiency (DOGE), alleging that individuals aged 150 years are fraudulently receiving Social Security benefits. These assertions have been widely debunked by experts who attribute such anomalies to legacy coding issues within the Social Security Administration's (SSA) systems, particularly those related to the COBOL programming language.
+
+COBOL, a language developed over six decades ago, is still in use within the SSA's infrastructure. Due to its limitations, especially in date handling, the system defaults to a reference date when birthdates are missing or incomplete. This default can erroneously display beneficiaries as being 150 years old, leading to misconceptions about fraudulent activity. In reality, these are data entry quirks rather than evidence of systemic fraud.
+
+Furthermore, the SSA has protocols in place to suspend benefits for individuals who reach the age of 115, ensuring that funds are not disbursed to deceased persons. A 2023 report by the SSA's inspector general indicated that 98% of individuals aged 100 or older in the SSA's database are not receiving benefits, underscoring the agency's commitment to preventing improper payments.
+
+The dissemination of unverified claims not only undermines public trust in essential programs like Social Security but also diverts attention from genuine issues that require legislative oversight. I urge you to advocate for a comprehensive review of the SSA's technological infrastructure. Modernizing these systems would address data anomalies and enhance overall efficiency, ensuring that Social Security remains robust and reliable for all beneficiaries.
+
+For further details, I encourage you to review the article published by Wired:
+https://www.wired.com/story/elon-musk-doge-social-security-150-year-old-benefits/
+```  
+
 ### Emil Bove  
 2025-02-17  
 ```
