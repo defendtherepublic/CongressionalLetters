@@ -1,5 +1,42 @@
 Find your Representative or Senator: https://www.govtrack.us/congress/members/map.  Goto their official website and select contact.  
 
+### Immigration Judges  
+2025-02-17  
+```
+Representative or Senator LastName,
+
+I am writing to express my deep concern regarding the recent dismissal of 20 immigration judges by the Trump administration, as reported by News From The States. This action, which includes the termination of 13 judges who had completed their training but had not yet been sworn in, as well as seven assistant chief immigration judges, comes at a time when our immigration courts are already overwhelmed with a backlog exceeding 3.7 million cases.  
+(https://www.newsfromthestates.com/article/trump-administration-fires-20-immigration-judges-amid-mass-dismissals-federal-workers)
+
+The removal of these judges without clear justification not only exacerbates the existing backlog but also undermines the efficiency and fairness of our immigration system. Immigration judges play a crucial role in adjudicating asylum claims and issuing removal orders, and their sudden dismissal raises questions about the administration's commitment to due process and the rule of law.
+
+Moreover, the lack of transparency surrounding these firings has been criticized by union officials, who suggest that this may be part of a broader campaign targeting federal employees. Such actions could have far-reaching implications for the morale and independence of our judiciary.
+
+In light of these developments, I urge you to advocate for the immediate reinstatement of the dismissed judges and to support measures that enhance the capacity and independence of our immigration courts. Ensuring a fair and efficient adjudication process is essential to upholding the principles of justice and due process that are foundational to our nation.
+```  
+
+### Executive Orders  
+2025-02-17  
+```
+Representative or Senator LastName,  
+
+I am writing to express my concern about the growing use of executive orders to implement policies that should be debated and decided by Congress. While executive orders can serve important administrative functions, they must not be used as a means for the executive branch to override the legislative authority of Congress.  
+
+The U.S. Constitution clearly grants lawmaking power to Congress, while the President’s role is to execute those laws—not create them unilaterally. However, recent trends suggest an increasing reliance on executive orders to implement significant policy changes without congressional approval. This undermines the separation of powers and weakens Congress’s constitutional authority.  
+
+Several laws regulate executive orders, including:  
+
+- The **Administrative Procedure Act (1946)**, which ensures proper implementation by federal agencies.  
+- The **National Emergencies Act (1976)**, which governs how the President declares and manages national emergencies.  
+- The **Congressional Review Act (1996)**, which allows Congress to overturn certain executive actions.  
+
+Additionally, key Supreme Court decisions, such as *Youngstown Sheet & Tube Co. v. Sawyer (1952)*, have reaffirmed that executive orders must be grounded in constitutional or statutory authority.  
+
+I urge you to take a strong stance in defending Congress’s constitutional role and ensuring that executive orders do not become a tool for bypassing the legislative process. If the executive branch is allowed to continue expanding its authority unchecked, it diminishes the role of elected representatives and the voice of the people they serve.  
+
+Please consider supporting measures that reinforce congressional oversight and prevent any administration from unilaterally enacting policies that rightfully belong to the legislative branch. I appreciate your time and your commitment to upholding the constitutional balance of power.
+```  
+
 ### FDA/Neuralink  
 2025-02-17  
 ```
