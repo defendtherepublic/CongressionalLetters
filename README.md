@@ -1,5 +1,20 @@
 Find your Representative or Senator: https://www.govtrack.us/congress/members/map.  Goto their official website and select contact.  
 
+### USAID Healthcare  
+2025-02-17  
+```
+Representative LaMalfa,
+
+I am writing to express my deep concern regarding a recent incident involving a USAID employee and his pregnant wife, as reported by journalist Kyle Cheney. According to an affidavit, the employee's wife required emergency medical evacuation while stationed overseas. However, due to directives from Washington, D.C., the medevac was initially denied. It was only after the intervention of a U.S. senator that the decision was reversed, but unfortunately, the delay rendered the assistance too late.
+
+This situation highlights a critical issue within our government's support system for employees serving abroad. The bureaucratic hurdles that led to the denial of urgent medical care are unacceptable and put lives at risk. Our citizens, especially those representing our nation overseas, deserve prompt and effective support in times of crisis.
+
+I urge you to investigate this matter thoroughly and advocate for policy reforms that ensure timely medical assistance for all government personnel and their families stationed internationally. It is imperative that we prevent such tragedies in the future by removing unnecessary obstacles and prioritizing the well-being of our dedicated public servants.
+
+For further details, the affidavit and legal documents related to this case can be found here:
+https://storage.courtlistener.com/recap/gov.uscourts.dcd.276820/gov.uscourts.dcd.276820.21.0.pdf
+```  
+
 ### Immigrants voting  
 2025-02-17  
 ```
