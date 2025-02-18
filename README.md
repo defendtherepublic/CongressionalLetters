@@ -2,6 +2,10 @@ Find your Representative or Senator: https://www.govtrack.us/congress/members/ma
 
 ### Who is in charge of DOGE/USDS  
 2025-02-18  
+- Sources:  
+    - https://www.reuters.com/legal/judge-calls-rare-hearing-holiday-case-against-musks-doge-2025-02-17  
+    - https://www.politico.com/news/2025/02/17/judge-chutkan-musk-lawsuit-hearing-00204590  
+    - https://www.politico.com/news/2025/02/17/doge-administrator-elon-musk-00204639  
 ```
 Representative or Senator LastName,  
 
