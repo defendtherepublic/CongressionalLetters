@@ -1,5 +1,20 @@
 Find your Representative or Senator: https://www.govtrack.us/congress/members/map.  Goto their official website and select contact.  
 
+### Immigrants voting  
+2025-02-17  
+```
+Representative LastName,
+
+I am writing to express my concerns about the spread of misinformation regarding immigration and voting rights, particularly from high-profile figures like Elon Musk. Recently, Musk has made unsubstantiated claims suggesting that Democrats are using taxpayer money to retain immigrants for future votes. For example, in February 2024, he stated on X (formerly Twitter) that Democrats avoid deporting undocumented migrants because "every illegal is a highly likely vote at some point." This assertion has been thoroughly debunked, as federal law mandates U.S. citizenship for voting in national elections, and the naturalization process takes several years. 
+
+More details can be found here:  
+https://www.politifact.com/factchecks/2024/mar/06/elon-musk/fact-check-elon-musks-claim-that-democrats-are-avo/
+
+Additionally, Musk has amplified the baseless theory that Democrats are intentionally "importing" undocumented migrants to secure votes. In one instance, he reposted a false claim alleging that up to two million noncitizens had been registered to vote in three states, which has been proven to be misleading and unsupported by evidence.
+
+This kind of misinformation is harmful to the democratic process and public trust in elections. I urge you to take a strong stance against the spread of falsehoods regarding immigration and voter fraud, ensuring that accurate information is upheld in public discourse.
+```  
+
 ### NNSA  
 2025-02-17  
 ```
