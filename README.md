@@ -1,5 +1,24 @@
 Find your Representative or Senator: https://www.govtrack.us/congress/members/map.  Goto their official website and select contact.  
 
+### NNSA  
+2025-02-17  
+```
+Representative LastName,
+
+I am writing to express my deep concern regarding the administration’s recent mismanagement of personnel at the National Nuclear Security Administration (NNSA). The abrupt firing of critical employees, followed by an apparent realization of the mistake and an attempt to rehire them, demonstrates a level of incompetence that poses a direct threat to national security.
+
+The NNSA is responsible for maintaining the safety and reliability of our nuclear arsenal. Any disruption to its workforce—especially through poorly planned personnel decisions—jeopardizes both national defense and global stability. The fact that the administration dismissed staff without fully considering the consequences, only to reverse course within days, raises serious questions about its decision-making processes.
+
+According to reports from major news sources, up to 350 NNSA employees were laid off, including staff working on essential nuclear warhead assembly at the Pantex Plant in Texas. The administration then attempted to reinstate most of these employees after realizing the mistake, but by that time, their access had already been revoked, further compounding the issue.
+
+Sources:
+AP News: https://apnews.com/article/916e6819104f04f44c345b7dde4904d5
+The Guardian: https://www.theguardian.com/us-news/2025/feb/15/trump-administration-nuclear-arsenal-worker-firings
+Reuters: https://www.reuters.com/world/us/us-energy-department-says-less-than-50-purged-nuclear-security-office-2025-02-16/
+
+This issue is not merely bureaucratic; it reflects a fundamental lapse in judgment that could have long-term consequences for our security infrastructure. I urge you to investigate how and why these decisions were made, ensure accountability for those responsible, and push for safeguards to prevent similar reckless actions in the future.
+```  
+
 ### SSA  
 2025-02-17  
 ```
