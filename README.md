@@ -4,8 +4,9 @@ Write your own letters: https://chatgpt.com/g/g-6732a6a9da108190824b063d563b427b
 ### Reconciliation Bill  
 2025-02-23  
 - Sources:  
+    - https://bipartisanpolicy.org/explainer/whats-in-the-fy2025-senate-budget-resolution  
     - https://www.wsj.com/politics/policy/senate-is-set-to-kill-bipartisan-tax-bill-c309d47b  
-    - https://www.pwc.com/us/en/services/tax/library/house-budget-committee-resolution-for-reconciliation-bill-addressing-taxes.html?utm_source=chatgpt.com  
+    - https://www.pwc.com/us/en/services/tax/library/house-budget-committee-resolution-for-reconciliation-bill-addressing-taxes.html  
 ```
 Representative or Senator LastName,  
 
