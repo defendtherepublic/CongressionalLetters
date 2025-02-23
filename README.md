@@ -1,6 +1,25 @@
 Find your Representative: https://www.govtrack.us/congress/members/map.  
 Write your own letters: https://chatgpt.com/g/g-6732a6a9da108190824b063d563b427b-congressional-letters.  
 
+### Reconciliation Bill  
+2025-02-23  
+- Sources:  
+    - https://www.wsj.com/politics/policy/senate-is-set-to-kill-bipartisan-tax-bill-c309d47b  
+    - https://www.pwc.com/us/en/services/tax/library/house-budget-committee-resolution-for-reconciliation-bill-addressing-taxes.html?utm_source=chatgpt.com  
+```
+Representative or Senator LastName,  
+
+I am writing to urge you to vote **NO** on the proposed reconciliation bill, which overwhelmingly benefits the wealthiest Americans while neglecting the needs of working-class families. At a time when economic inequality is widening, we need policies that support everyday Americans, not just the affluent few.  
+
+This bill fails to address the real struggles that hardworking people in our district and across the country face—rising healthcare costs, lack of affordable housing, and stagnant wages. Instead, it prioritizes tax breaks and loopholes that disproportionately benefit corporations and the wealthiest individuals.  
+
+We should be focusing on legislation that invests in **healthcare, education, infrastructure, and economic relief** for working-class and middle-class families. Rather than reinforcing economic disparities, Congress should prioritize policies that provide direct support to those who need it most.  
+
+I urge you to stand with your constituents and reject this bill. A vote against it would demonstrate a commitment to fairness, fiscal responsibility, and the well-being of the people you represent.  
+
+Thank you for your time and consideration. I look forward to seeing how you vote on this critical issue.  
+```  
+
 ### Romania  
 2025-02-18  
 - Sources:  
