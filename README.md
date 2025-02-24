@@ -1,6 +1,18 @@
 Find your Representative: https://www.govtrack.us/congress/members/map.  
 Write your own letters: https://chatgpt.com/g/g-6732a6a9da108190824b063d563b427b-congressional-letters.  
 
+### Stop the GOP Oversight task force into government secrets  
+2025-02-24  
+```
+I am writing to express my concern over the recent push for congressional investigations by Rep Anna Paulina Luna into long-settled historical events, such as the JFK assassination. While transparency in government is important, dedicating taxpayer-funded resources to revisiting decades-old cases diverts attention and funding from pressing current issues.  
+
+There are numerous challenges facing our nation—rising costs of living, national security threats, and infrastructure improvements—that deserve priority. Spending public money on speculative inquiries that do not directly impact the well-being of American citizens is a misuse of resources.  
+
+I urge you to focus legislative efforts on policies that improve everyday life for your constituents. Instead of engaging in investigations with little likelihood of producing actionable results, Congress should prioritize economic stability, public safety, and critical services that benefit the American people.  
+
+Thank you for your time and service. I look forward to seeing a focus on policies that have real, tangible benefits for our country.  
+```
+
 ### NATO Membership for Ukraine  
 2025-02-24  
 ```
