@@ -1,6 +1,46 @@
 Find your Representative: https://www.govtrack.us/congress/members/map.  
 Write your own letters: https://chatgpt.com/g/g-6732a6a9da108190824b063d563b427b-congressional-letters.  
 
+### NATO Membership for Ukraine  
+2025-02-24  
+```
+I urge you to support Ukraine's accession to NATO. Ukraine has demonstrated its commitment to democratic values, sovereignty, and territorial integrity while facing ongoing aggression from Russia. Allowing Ukraine to join NATO would enhance regional stability, deter further Russian expansionism, and reinforce the alliance’s commitment to defending democratic nations from authoritarian threats.
+
+Ukraine has made significant progress in aligning its military and governance structures with NATO standards. Its forces have proven their effectiveness in combat, and its leadership has consistently expressed a willingness to contribute to collective security efforts. By granting Ukraine membership, NATO would not only fulfill its mission of promoting peace and stability but also send a strong message that aggression against sovereign nations will not be tolerated.
+
+Critics argue that Ukraine’s NATO membership could provoke further conflict. However, history shows that Russia’s hostility is driven by perceived weakness, not strength. NATO’s collective defense principle has successfully deterred aggression against member states for decades. Extending this security umbrella to Ukraine would reduce the likelihood of future conflict rather than escalate it.
+
+Congress should advocate for Ukraine’s NATO membership and support all necessary measures to facilitate its accession. This would strengthen both U.S. national security and global stability by reinforcing the rules-based international order.
+
+I appreciate your attention to this important issue and look forward to your response.
+```  
+
+### Section 302  
+2025-02-24  
+```
+I am writing to express my concern regarding recent discussions at the FCC about potential actions on Section 230. FCC Commissioner Anna Gomez has highlighted that these anticipated measures may be vague and ultimately ineffective in addressing concerns about online content moderation. Instead, they appear to be part of a broader effort by the current administration to exert control over online speech, raising serious First Amendment concerns.
+
+As you know, Section 230 plays a critical role in maintaining a free and open internet by protecting platforms from liability for user-generated content while allowing them to moderate harmful material. Any changes to this provision must be carefully considered to avoid unintended consequences that could stifle free expression or impose excessive regulatory burdens on online services.
+
+I urge you to closely monitor these FCC developments and push back against any attempts to weaken free speech protections under the guise of content regulation. Ensuring that online platforms remain open forums for diverse viewpoints without government overreach is essential for maintaining our constitutional freedoms.
+
+Thank you for your time and attention to this important matter.
+```  
+
+### Dysfunction in Washington  
+2025-02-24  
+- Sources:
+    - https://www.nytimes.com/2025/02/23/us/politics/elon-musk-email-federal-workers.html  
+```
+I am writing to express my deep frustration with the current state of the federal government. The recent revelations about Elon Musk’s email to federal workers, as reported by The New York Times (https://www.nytimes.com/2025/02/23/us/politics/elon-musk-email-federal-workers.html), highlight a troubling dynamic between private industry and government operations. It is infuriating to see how unaccountable billionaires feel empowered to dictate terms to federal employees while our elected officials seem either complicit or incapable of pushing back.  
+
+The dysfunction in Washington has reached a breaking point. Whether it’s reckless spending, bureaucratic incompetence, or the unchecked influence of corporate elites, the American people are being left behind. We need decisive action to restore transparency, accountability, and efficiency to our government.  
+
+I urge you to take a stand against the corporate overreach that continues to erode trust in our institutions. Federal employees should not be subjected to intimidation from wealthy individuals who have no official authority over them. It’s time for Congress to assert its role in governing and protecting the integrity of our public institutions.  
+
+What are you doing to address this issue? How will you fight to ensure that our government serves the people rather than the interests of the ultra-rich?  
+```  
+
 ### Reconciliation Bill  
 2025-02-23  
 - Sources:  
