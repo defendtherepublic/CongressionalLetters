@@ -1,7 +1,7 @@
 Find your Representative: https://www.govtrack.us/congress/members/map.  
 Write your own letters: https://chatgpt.com/g/g-6732a6a9da108190824b063d563b427b-congressional-letters.  
 
-### Stop the GOP Oversight task force into government secrets  
+### Stop the GOP Oversight task force into JFK Assassination  
 2025-02-24  
 ```
 I am writing to express my concern over the recent push for congressional investigations by Rep Anna Paulina Luna into long-settled historical events, such as the JFK assassination. While transparency in government is important, dedicating taxpayer-funded resources to revisiting decades-old cases diverts attention and funding from pressing current issues.  
