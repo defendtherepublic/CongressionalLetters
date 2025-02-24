@@ -11,8 +11,6 @@ Ukraine has made significant progress in aligning its military and governance st
 Critics argue that Ukraine’s NATO membership could provoke further conflict. However, history shows that Russia’s hostility is driven by perceived weakness, not strength. NATO’s collective defense principle has successfully deterred aggression against member states for decades. Extending this security umbrella to Ukraine would reduce the likelihood of future conflict rather than escalate it.
 
 Congress should advocate for Ukraine’s NATO membership and support all necessary measures to facilitate its accession. This would strengthen both U.S. national security and global stability by reinforcing the rules-based international order.
-
-I appreciate your attention to this important issue and look forward to your response.
 ```  
 
 ### Section 302  
@@ -23,8 +21,6 @@ I am writing to express my concern regarding recent discussions at the FCC about
 As you know, Section 230 plays a critical role in maintaining a free and open internet by protecting platforms from liability for user-generated content while allowing them to moderate harmful material. Any changes to this provision must be carefully considered to avoid unintended consequences that could stifle free expression or impose excessive regulatory burdens on online services.
 
 I urge you to closely monitor these FCC developments and push back against any attempts to weaken free speech protections under the guise of content regulation. Ensuring that online platforms remain open forums for diverse viewpoints without government overreach is essential for maintaining our constitutional freedoms.
-
-Thank you for your time and attention to this important matter.
 ```  
 
 ### Dysfunction in Washington  
